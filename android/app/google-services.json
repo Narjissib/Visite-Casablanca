@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "240014846348",
+    "project_id": "visite-casablanca",
+    "storage_bucket": "visite-casablanca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240014846348:android:fb75784cf56e3265cb4ea9",
+        "android_client_info": {
+          "package_name": "com.example.vs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240014846348-df39oriqkgocurt633agaru6ja9msn1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vs",
+            "certificate_hash": "61038f11beb8d0f0e9dcb065dd0a66a06c7b3bf8"
+          }
+        },
+        {
+          "client_id": "240014846348-q38j0oh4ed71nbi2hbelqepe47fitd0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNu2i3bmO6Yqp6mV39kCvu1bTWL9uJcLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240014846348-5c6pua752ifsu676l26n945k9b6sk0g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240014846348-ke3unvnu287rg2cf0rcfon6sj6ggf0ki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>240014846348-ke3unvnu287rg2cf0rcfon6sj6ggf0ki.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.240014846348-ke3unvnu287rg2cf0rcfon6sj6ggf0ki</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDslnWEZO4Tb8Gi6PROR2-5dI78FCMrSg8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>240014846348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vs</string>
+	<key>PROJECT_ID</key>
+	<string>visite-casablanca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>visite-casablanca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:240014846348:ios:d5cd88f7d527e067cb4ea9</string>
+</dict>
+</plist>
